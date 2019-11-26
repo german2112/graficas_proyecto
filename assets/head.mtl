@@ -1,0 +1,15 @@
+newmtl head
+Ka 0 0 0
+Kd 0.721569 0.721569 0.721569
+Ks 0.8 0.8 0.8
+illum 2
+Ns 978.431
+map_Kd optimus.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 

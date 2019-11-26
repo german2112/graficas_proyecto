@@ -1,0 +1,17 @@
+﻿  robot.cpp
+C:\Users\super\Downloads\Second_advance (1)\Second_advance\robot.h(27,1): warning C4005:  'PARTS': macro redefinition
+C:\Users\super\Downloads\Second_advance (1)\Second_advance\block.h(26): message :  see previous definition of 'PARTS'
+C:\Users\super\Downloads\Second_advance (1)\Second_advance\robot.cpp(37,59): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\super\Downloads\Second_advance (1)\Second_advance\robot.cpp(482,15): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\super\Downloads\Second_advance (1)\Second_advance\robot.cpp(484,15): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\super\Downloads\Second_advance (1)\Second_advance\robot.cpp(736,19): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\super\Downloads\Second_advance (1)\Second_advance\robot.cpp(737,18): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\super\Downloads\Second_advance (1)\Second_advance\robot.cpp(738,20): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\super\Downloads\Second_advance (1)\Second_advance\robot.cpp(750,20): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\super\Downloads\Second_advance (1)\Second_advance\robot.cpp(755,19): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\super\Downloads\Second_advance (1)\Second_advance\robot.cpp(756,14): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\super\Downloads\Second_advance (1)\Second_advance\robot.cpp(766,18): warning C4305:  '-=': truncation from 'double' to 'float'
+C:\Users\super\Downloads\Second_advance (1)\Second_advance\robot.cpp(767,19): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\super\Downloads\Second_advance (1)\Second_advance\robot.cpp(782,15): warning C4305:  '-=': truncation from 'double' to 'float'
+C:\Users\super\Downloads\Second_advance (1)\Second_advance\robot.cpp(783,14): warning C4305:  '-=': truncation from 'double' to 'float'
+  CG_Demo.vcxproj -> C:\Users\super\Downloads\cgcourse-master\cgcourse-master\CG_Demo_VS2015\CG_Demo\Debug\CG_Demo.exe
